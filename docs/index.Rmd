@@ -1,8 +1,8 @@
 ---
 title: "13º Meetup R-Ladies São Paulo"
-subtitle: "Edição Especial Outubro Rosa"
-institute: "R-Ladies São Paulo & CONRE-3"
-date: "16/10/2019"
+subtitle: "A arte de se comunicar"
+institute: "R-Ladies São Paulo"
+date: "09/11/2019"
 encoding: "UTF-8"
 output:
   xaringan::moon_reader:
@@ -26,27 +26,29 @@ library(tidyverse)
 
 # Programação
 
-- 18:30 às 19:00 - Network/coffee break (patrocinio COOPEREST)
+- 09:40 às 10:00 - Antes de escrever: como organizar ideias e estruturar uma narrativa
 
-- 19:00 às 21:00 - Palestra e debates
+- 10:00 às 10:50 - Dicas de como escrever bem (pt. 1)
 
+- 10:50 às 11:10 - Coffe break colaborativo
+
+- 11:10 às 12:00 - Dicas de como escrever bem (pt. 2)
+  
+  
+  
 ```{r, out.width="25%"}
 knitr::include_graphics("img/logos/hexlogorladies.jpeg")
 
 ```
 
-```{r, out.width="40%"}
-
-knitr::include_graphics("img/logos/CONRE-3.png")
-```
 ---
 class:  center
 
 # Apoio
 
 <BR>
-```{r, out.width="50%", fig.cap="<center><b>CooperEst</center></b>"}
-knitr::include_graphics("img/logos/cooperest.jpg")
+```{r, out.width="40%"}
+knitr::include_graphics("img/logos/insper.jpg")
 ```
 
 <BR>
@@ -80,7 +82,7 @@ Nosso principal público-alvo são as pessoas que se identificam com o gênero f
 
 ## Missão
 
-Como uma iniciativa de diversidade, a missão das R-Ladies é alcançar uma representação proporcional de pessoas de gêneros atualmente sub-representados na comunidade R, incentivando, inspirando e caacitando-as.
+Como uma iniciativa de diversidade, a missão das R-Ladies é alcançar uma representação proporcional de pessoas de gêneros atualmente sub-representados na comunidade R, incentivando, inspirando e capacitando-as.
 
 
 
